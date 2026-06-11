@@ -1,2 +1,2 @@
 # Project_Cortex
-AI Based Operating System
+AI Based Operating System.
